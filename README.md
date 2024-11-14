@@ -3,7 +3,7 @@
 
 ![Sky's Stats](https://github-readme-stats.vercel.app/api?username=skycheung803&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skycheung803&theme=vue-dark&hide_border=true&layout=compact&text_color=151515&hide_title=false&&hide=html,css)](https://github.com/skycheung803)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skycheung803&theme=vue-dark&hide_border=true&hide_title=false&&hide=html,css)](https://github.com/skycheung803)
 
 
 <!---
