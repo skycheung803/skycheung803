@@ -3,10 +3,12 @@
 My name is Sky, and I'm a passionate software engineer with more than a decade of experience. I enjoy developing web systems, data scraping, browser testing, and CLI tools while using Go as my preferred programming language.
 
 
-![Sky's Stats](https://github-readme-stats.vercel.app/api?username=skycheung803&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skycheung803&theme=vue-dark&hide_border=true&hide_title=false&&hide=html,css)](https://github.com/skycheung803)
+![Sky's Stats](https://github-readme-stats.vercel.app/api?username=skycheung803&theme=radical&show_icons=true&hide_border=true&count_private=true&hide=stars)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skycheung803&theme=radical&hide_border=true&hide_title=false&&hide=html,css)](https://github.com/skycheung803)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=skycheung803&theme=dracula&title=Repositories,Commits)](https://github.com/skycheung803/skycheung803)
 
 ## Tech Stack
 | Golang | Python | PHP | Javascript | S-SQL | No-SQL | MacOS | Linux | Windows | VS Code | SVN & GIT |
@@ -26,4 +28,5 @@ My name is Sky, and I'm a passionate software engineer with more than a decade o
 
 skycheung803/skycheung803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 --->
